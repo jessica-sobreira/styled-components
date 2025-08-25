@@ -1,18 +1,20 @@
-# Mini Loja com Styled Components
+# 🛍️ Mini Loja com Styled Components
 
-Este é um projeto simples de uma mini loja, construído para demonstrar o uso do React e do Styled-Components para criar uma interface de usuário dinâmica e estilizada. O aplicativo inclui funcionalidades como a alternância de temas e a simulação de um carrinho de compras.
+Este é um projeto de **mini loja online** desenvolvido em **React** com **Styled-Components**, demonstrando como criar uma interface de usuário **dinâmica, estilizada e responsiva**.  
 
-## Como Usar
+O aplicativo inclui:
+-  Alternância entre **tema claro e escuro**
+-  Simulação de **carrinho de compras**
 
-Para executar este código em um ambiente de desenvolvimento real, você precisaria de um projeto React já configurado.
 
-- Instale as dependências:
+---
 
-``npm install styled-components``
+## Como executar o projeto
 
-- Copie os arquivos:
- Transfira os componentes e dados para a estrutura de pastas correspondente no seu projeto.
+> Pré-requisito: ter um projeto React já configurado (ex: criado com [Vite](https://vitejs.dev) ou [Create React App](https://create-react-app.dev/)).
 
-- Execute o projeto:
+1. **Instale as dependências**
 
-``npm run dev``
+```bash
+npm install styled-components
+
